@@ -1,27 +1,27 @@
 {
   "sport": "baseball",
   "league": "mlb",
-  "date": "20260714",
+  "date": "20260716",
   "count": 1,
   "games": [
     {
-      "id": "401817370",
-      "name": "American All-Stars at National All-Stars",
-      "shortName": "AL VS NL",
-      "date": "2026-07-15T00:00Z",
+      "id": "401816143",
+      "name": "New York Mets at Philadelphia Phillies",
+      "shortName": "NYM @ PHI",
+      "date": "2026-07-16T23:00Z",
       "state": "pre",
-      "status": "7/14 - 8:00 PM EDT",
+      "status": "7/16 - 7:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "32",
-        "abbr": "NL",
-        "name": "National All-Stars",
+        "id": "22",
+        "abbr": "PHI",
+        "name": "Philadelphia Phillies",
         "score": "0"
       },
       "away": {
-        "id": "31",
-        "abbr": "AL",
-        "name": "American All-Stars",
+        "id": "21",
+        "abbr": "NYM",
+        "name": "New York Mets",
         "score": "0"
       }
     }
