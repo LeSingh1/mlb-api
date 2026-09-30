@@ -1,16 +1,16 @@
 {
   "sport": "baseball",
   "league": "mlb",
-  "date": "20260929",
+  "date": "20260930",
   "count": 4,
   "games": [
     {
-      "id": "401907965",
+      "id": "401907972",
       "name": "Philadelphia Phillies at Atlanta Braves",
       "shortName": "PHI @ ATL",
-      "date": "2026-09-29T18:00Z",
+      "date": "2026-09-30T18:00Z",
       "state": "pre",
-      "status": "9/29 - 2:00 PM EDT",
+      "status": "9/30 - 2:00 PM EDT",
       "completed": false,
       "home": {
         "id": "15",
@@ -26,12 +26,12 @@
       }
     },
     {
-      "id": "401907896",
+      "id": "401907897",
       "name": "Chicago White Sox at Houston Astros",
       "shortName": "CHW @ HOU",
-      "date": "2026-09-29T21:00Z",
+      "date": "2026-09-30T21:00Z",
       "state": "pre",
-      "status": "9/29 - 5:00 PM EDT",
+      "status": "9/30 - 5:00 PM EDT",
       "completed": false,
       "home": {
         "id": "18",
@@ -47,12 +47,12 @@
       }
     },
     {
-      "id": "401907924",
+      "id": "401907963",
       "name": "Boston Red Sox at New York Yankees",
       "shortName": "BOS @ NYY",
-      "date": "2026-09-30T00:00Z",
+      "date": "2026-10-01T00:00Z",
       "state": "pre",
-      "status": "9/29 - 8:00 PM EDT",
+      "status": "9/30 - 8:00 PM EDT",
       "completed": false,
       "home": {
         "id": "10",
@@ -68,12 +68,12 @@
       }
     },
     {
-      "id": "401907974",
+      "id": "401907975",
       "name": "Chicago Cubs at San Diego Padres",
       "shortName": "CHC @ SD",
-      "date": "2026-09-30T02:00Z",
+      "date": "2026-10-01T02:00Z",
       "state": "pre",
-      "status": "9/29 - 10:00 PM EDT",
+      "status": "9/30 - 10:00 PM EDT",
       "completed": false,
       "home": {
         "id": "25",
