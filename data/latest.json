@@ -1,27 +1,90 @@
 {
   "sport": "baseball",
   "league": "mlb",
-  "date": "20261001",
-  "count": 1,
+  "date": "20261003",
+  "count": 4,
   "games": [
     {
-      "id": "401907973",
-      "name": "Philadelphia Phillies at Atlanta Braves",
-      "shortName": "PHI @ ATL",
-      "date": "2026-10-02T00:00Z",
+      "id": "401907990",
+      "name": "Chicago White Sox at Cleveland Guardians",
+      "shortName": "CHW @ CLE",
+      "date": "2026-10-03T17:00Z",
       "state": "pre",
-      "status": "10/1 - 8:00 PM EDT",
+      "status": "10/3 - 1:00 PM EDT",
       "completed": false,
       "home": {
+        "id": "5",
+        "abbr": "CLE",
+        "name": "Cleveland Guardians",
+        "score": "0"
+      },
+      "away": {
+        "id": "4",
+        "abbr": "CHW",
+        "name": "Chicago White Sox",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401908007",
+      "name": "Atlanta Braves at Los Angeles Dodgers",
+      "shortName": "ATL @ LAD",
+      "date": "2026-10-03T20:00Z",
+      "state": "pre",
+      "status": "10/3 - 4:00 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "19",
+        "abbr": "LAD",
+        "name": "Los Angeles Dodgers",
+        "score": "0"
+      },
+      "away": {
         "id": "15",
         "abbr": "ATL",
         "name": "Atlanta Braves",
         "score": "0"
+      }
+    },
+    {
+      "id": "401907985",
+      "name": "New York Yankees at Tampa Bay Rays",
+      "shortName": "NYY @ TB",
+      "date": "2026-10-03T22:30Z",
+      "state": "pre",
+      "status": "10/3 - 6:30 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "30",
+        "abbr": "TB",
+        "name": "Tampa Bay Rays",
+        "score": "0"
       },
       "away": {
-        "id": "22",
-        "abbr": "PHI",
-        "name": "Philadelphia Phillies",
+        "id": "10",
+        "abbr": "NYY",
+        "name": "New York Yankees",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401908002",
+      "name": "San Diego Padres at Milwaukee Brewers",
+      "shortName": "SD @ MIL",
+      "date": "2026-10-04T00:30Z",
+      "state": "pre",
+      "status": "10/3 - 8:30 PM EDT",
+      "completed": false,
+      "home": {
+        "id": "8",
+        "abbr": "MIL",
+        "name": "Milwaukee Brewers",
+        "score": "0"
+      },
+      "away": {
+        "id": "25",
+        "abbr": "SD",
+        "name": "San Diego Padres",
         "score": "0"
       }
     }
