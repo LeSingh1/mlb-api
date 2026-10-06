@@ -1,48 +1,48 @@
 {
   "sport": "baseball",
   "league": "mlb",
-  "date": "20261005",
+  "date": "20261006",
   "count": 2,
   "games": [
     {
-      "id": "401907991",
-      "name": "Chicago White Sox at Cleveland Guardians",
-      "shortName": "CHW @ CLE",
-      "date": "2026-10-05T21:00Z",
+      "id": "401908015",
+      "name": "Los Angeles Dodgers at Atlanta Braves",
+      "shortName": "LAD @ ATL",
+      "date": "2026-10-06T22:00Z",
       "state": "pre",
-      "status": "10/5 - 5:00 PM EDT",
+      "status": "10/6 - 6:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "5",
-        "abbr": "CLE",
-        "name": "Cleveland Guardians",
+        "id": "15",
+        "abbr": "ATL",
+        "name": "Atlanta Braves",
         "score": "0"
       },
       "away": {
-        "id": "4",
-        "abbr": "CHW",
-        "name": "Chicago White Sox",
+        "id": "19",
+        "abbr": "LAD",
+        "name": "Los Angeles Dodgers",
         "score": "0"
       }
     },
     {
-      "id": "401907986",
-      "name": "New York Yankees at Tampa Bay Rays",
-      "shortName": "NYY @ TB",
-      "date": "2026-10-06T00:00Z",
+      "id": "401908004",
+      "name": "Milwaukee Brewers at San Diego Padres",
+      "shortName": "MIL @ SD",
+      "date": "2026-10-07T01:30Z",
       "state": "pre",
-      "status": "10/5 - 8:00 PM EDT",
+      "status": "10/6 - 9:30 PM EDT",
       "completed": false,
       "home": {
-        "id": "30",
-        "abbr": "TB",
-        "name": "Tampa Bay Rays",
+        "id": "25",
+        "abbr": "SD",
+        "name": "San Diego Padres",
         "score": "0"
       },
       "away": {
-        "id": "10",
-        "abbr": "NYY",
-        "name": "New York Yankees",
+        "id": "8",
+        "abbr": "MIL",
+        "name": "Milwaukee Brewers",
         "score": "0"
       }
     }
