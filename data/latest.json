@@ -1,16 +1,16 @@
 {
   "sport": "baseball",
   "league": "mlb",
-  "date": "20261007",
-  "count": 4,
+  "date": "20261008",
+  "count": 1,
   "games": [
     {
-      "id": "401907992",
+      "id": "401907993",
       "name": "Cleveland Guardians at Chicago White Sox",
       "shortName": "CLE @ CHW",
-      "date": "2026-10-07T20:00Z",
+      "date": "2026-10-09T00:00Z",
       "state": "pre",
-      "status": "10/7 - 4:00 PM EDT",
+      "status": "10/8 - 8:00 PM EDT",
       "completed": false,
       "home": {
         "id": "4",
@@ -22,69 +22,6 @@
         "id": "5",
         "abbr": "CLE",
         "name": "Cleveland Guardians",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401908016",
-      "name": "Los Angeles Dodgers at Atlanta Braves",
-      "shortName": "LAD @ ATL",
-      "date": "2026-10-07T22:00Z",
-      "state": "pre",
-      "status": "10/7 - 6:00 PM EDT",
-      "completed": false,
-      "home": {
-        "id": "15",
-        "abbr": "ATL",
-        "name": "Atlanta Braves",
-        "score": "0"
-      },
-      "away": {
-        "id": "19",
-        "abbr": "LAD",
-        "name": "Los Angeles Dodgers",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401907987",
-      "name": "Tampa Bay Rays at New York Yankees",
-      "shortName": "TB @ NYY",
-      "date": "2026-10-08T00:00Z",
-      "state": "pre",
-      "status": "10/7 - 8:00 PM EDT",
-      "completed": false,
-      "home": {
-        "id": "10",
-        "abbr": "NYY",
-        "name": "New York Yankees",
-        "score": "0"
-      },
-      "away": {
-        "id": "30",
-        "abbr": "TB",
-        "name": "Tampa Bay Rays",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401908005",
-      "name": "Milwaukee Brewers at San Diego Padres",
-      "shortName": "MIL @ SD",
-      "date": "2026-10-08T02:00Z",
-      "state": "pre",
-      "status": "10/7 - 10:00 PM EDT",
-      "completed": false,
-      "home": {
-        "id": "25",
-        "abbr": "SD",
-        "name": "San Diego Padres",
-        "score": "0"
-      },
-      "away": {
-        "id": "8",
-        "abbr": "MIL",
-        "name": "Milwaukee Brewers",
         "score": "0"
       }
     }
