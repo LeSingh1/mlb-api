@@ -1,27 +1,27 @@
 {
   "sport": "baseball",
   "league": "mlb",
-  "date": "20261008",
+  "date": "20261010",
   "count": 1,
   "games": [
     {
-      "id": "401907993",
-      "name": "Cleveland Guardians at Chicago White Sox",
-      "shortName": "CLE @ CHW",
-      "date": "2026-10-09T00:00Z",
+      "id": "401907994",
+      "name": "Chicago White Sox at Cleveland Guardians",
+      "shortName": "CHW @ CLE",
+      "date": "2026-10-11T00:00Z",
       "state": "pre",
-      "status": "10/8 - 8:00 PM EDT",
+      "status": "10/10 - 8:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "4",
-        "abbr": "CHW",
-        "name": "Chicago White Sox",
-        "score": "0"
-      },
-      "away": {
         "id": "5",
         "abbr": "CLE",
         "name": "Cleveland Guardians",
+        "score": "0"
+      },
+      "away": {
+        "id": "4",
+        "abbr": "CHW",
+        "name": "Chicago White Sox",
         "score": "0"
       }
     }
