@@ -1,27 +1,27 @@
 {
   "sport": "baseball",
   "league": "mlb",
-  "date": "20261010",
+  "date": "20261011",
   "count": 1,
   "games": [
     {
-      "id": "401907994",
-      "name": "Chicago White Sox at Cleveland Guardians",
-      "shortName": "CHW @ CLE",
-      "date": "2026-10-11T00:00Z",
+      "id": "401908030",
+      "name": "Los Angeles Dodgers at Milwaukee Brewers",
+      "shortName": "LAD @ MIL",
+      "date": "2026-10-12T00:00Z",
       "state": "pre",
-      "status": "10/10 - 8:00 PM EDT",
+      "status": "10/11 - 8:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "5",
-        "abbr": "CLE",
-        "name": "Cleveland Guardians",
+        "id": "8",
+        "abbr": "MIL",
+        "name": "Milwaukee Brewers",
         "score": "0"
       },
       "away": {
-        "id": "4",
-        "abbr": "CHW",
-        "name": "Chicago White Sox",
+        "id": "19",
+        "abbr": "LAD",
+        "name": "Los Angeles Dodgers",
         "score": "0"
       }
     }
