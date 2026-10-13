@@ -1,37 +1,16 @@
 {
   "sport": "baseball",
   "league": "mlb",
-  "date": "20261012",
-  "count": 2,
+  "date": "20261013",
+  "count": 1,
   "games": [
     {
-      "id": "401908031",
-      "name": "Los Angeles Dodgers at Milwaukee Brewers",
-      "shortName": "LAD @ MIL",
-      "date": "2026-10-12T21:00Z",
-      "state": "in",
-      "status": "Bot 1st",
-      "completed": false,
-      "home": {
-        "id": "8",
-        "abbr": "MIL",
-        "name": "Milwaukee Brewers",
-        "score": "0"
-      },
-      "away": {
-        "id": "19",
-        "abbr": "LAD",
-        "name": "Los Angeles Dodgers",
-        "score": "1"
-      }
-    },
-    {
-      "id": "401908023",
+      "id": "401908024",
       "name": "Cleveland Guardians at Tampa Bay Rays",
       "shortName": "CLE @ TB",
-      "date": "2026-10-13T00:00Z",
+      "date": "2026-10-14T00:00Z",
       "state": "pre",
-      "status": "10/12 - 8:00 PM EDT",
+      "status": "10/13 - 8:00 PM EDT",
       "completed": false,
       "home": {
         "id": "30",
