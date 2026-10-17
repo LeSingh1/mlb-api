@@ -1,16 +1,16 @@
 {
   "sport": "baseball",
   "league": "mlb",
-  "date": "20261016",
+  "date": "20261017",
   "count": 1,
   "games": [
     {
-      "id": "401908026",
+      "id": "401908027",
       "name": "Tampa Bay Rays at Cleveland Guardians",
       "shortName": "TB @ CLE",
-      "date": "2026-10-17T00:00Z",
+      "date": "2026-10-18T00:00Z",
       "state": "pre",
-      "status": "10/16 - 8:00 PM EDT",
+      "status": "10/17 - 8:00 PM EDT",
       "completed": false,
       "home": {
         "id": "5",
