@@ -1,27 +1,27 @@
 {
   "sport": "baseball",
   "league": "mlb",
-  "date": "20261024",
+  "date": "20261026",
   "count": 1,
   "games": [
     {
-      "id": "401908043",
-      "name": "Tampa Bay Rays at Milwaukee Brewers",
-      "shortName": "TB @ MIL",
-      "date": "2026-10-25T00:00Z",
+      "id": "401908044",
+      "name": "Milwaukee Brewers at Tampa Bay Rays",
+      "shortName": "MIL @ TB",
+      "date": "2026-10-27T00:00Z",
       "state": "pre",
-      "status": "10/24 - 8:00 PM EDT",
+      "status": "10/26 - 8:00 PM EDT",
       "completed": false,
       "home": {
-        "id": "8",
-        "abbr": "MIL",
-        "name": "Milwaukee Brewers",
-        "score": "0"
-      },
-      "away": {
         "id": "30",
         "abbr": "TB",
         "name": "Tampa Bay Rays",
+        "score": "0"
+      },
+      "away": {
+        "id": "8",
+        "abbr": "MIL",
+        "name": "Milwaukee Brewers",
         "score": "0"
       }
     }
