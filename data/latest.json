@@ -1,16 +1,16 @@
 {
   "sport": "baseball",
   "league": "mlb",
-  "date": "20261026",
+  "date": "20261027",
   "count": 1,
   "games": [
     {
-      "id": "401908044",
+      "id": "401908045",
       "name": "Milwaukee Brewers at Tampa Bay Rays",
       "shortName": "MIL @ TB",
-      "date": "2026-10-27T00:00Z",
+      "date": "2026-10-28T00:00Z",
       "state": "pre",
-      "status": "10/26 - 8:00 PM EDT",
+      "status": "10/27 - 8:00 PM EDT",
       "completed": false,
       "home": {
         "id": "30",
